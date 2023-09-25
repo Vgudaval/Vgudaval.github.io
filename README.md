@@ -46,34 +46,41 @@ GPA: 9.36/10
 - Held workshop and live project sessions on ML Algorithms, Recommendation Systems, NLP and CV covering for a week.
 
 ## Projects
-[**Recommendation System for Yelp Dataset**](https://github.com/Vgudaval/Recommendation-System-)  
+[**Recommendation System for Yelp Dataset** ](https://github.com/Vgudaval/Recommendation-System-)  
 - Developed a hybrid recommendation system with collaborative filtering, Pearson similarity on yelp data.
 - Enhanced user rating predictions utilizing feature engineering and XGBoost, achieving 0.974 RMSE.
 - Applied Locality Sensitive Hashing (LSH) algorithm to identify similar businesses on yelp data.
+- [*View Project*](https://github.com/Vgudaval/Recommendation-System-)
 
 [**Named Entity Recognition using BERT**](https://github.com/Vgudaval/NLP/blob/main/Fine-Tuning-BERT-for-NER.ipynb)  
 - Developed a Named Entity Recognition (NER) model using BERT.
 - Extracted relevant data such as names of people, place, and organization from texts with tags and confidence levels.
+- [*View Project*](https://github.com/Vgudaval/NLP/blob/main/Fine-Tuning-BERT-for-NER.ipynb)
 
 [**Action Classification Based On Multisensor Data**](https://github.com/Vgudaval/Action_Classification_ML)  
 - Developed a Time-series classification model distinguishing various human activities.
 - Utilized statistical features extracted from sensor data for analysis and achieved 94.73% accuracy.
 - Implemented L1 Multinomial regression, Gaussian Naïve Bayes, and Multinomial Naïve Bayes algorithms.
+- [*View Project*](https://github.com/Vgudaval/Action_Classification_ML)
 
 [**Transfer Learning for Image Classification**](https://github.com/Vgudaval/Transfer-Learning-for-Image-Classification)    
 - Built a multi-class classifier on pretrained EfficientNetB0 and VGG16 to identify 20 bird species.
 - Implemented data augmentation techniques using TensorFlow and improved model generalization.
 - Performed optimization with Adam optimizer and achieved 82% accuracy.
+- [*View Project*](https://github.com/Vgudaval/Transfer-Learning-for-Image-Classification)
 
 [**Realtime NoSQL Database Emulator**](https://github.com/Vgudaval/Realtime-NoSQL-Database-Emulator)     
 -	Developed a Firebase Realtime Database emulator with Flask-based RESTful API and MongoDB to facilitate backend services.
 -	Implemented CRUD operations, with CLI enabling efficient data management with listing creation, retrieval, and deletion.
 -	Enhanced data query capabilities with real-time retrieval, including filtering and sorting features.
+-	[*View Project*](https://github.com/Vgudaval/Realtime-NoSQL-Database-Emulator)
 
 [**Flask Web Notes App**](https://github.com/Vgudaval/Flask_Notes_App)
 - Developed a Flask-based notes application integrated with user authentication for secure access and personalized note management.
 - Implemented full CRUD operations allowing users to seamlessly create, read, update, and delete their personal notes after logging in.
 - Ensured robust session management and intuitive UI design for enhanced user experience and efficient note handling.
+- [*View Project*](https://github.com/Vgudaval/Flask_Notes_App)
+
 
 **HR Analytics Insights with Tableau**  
 - Implemented EDA to analyze Hong Kong job market trends.
