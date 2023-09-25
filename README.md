@@ -2,7 +2,9 @@
 
 #### I am more than an aspiring data scientist. I have expertise in Machine Learning, NLP, Deep Learning and EDA.
 
-#### Location: 📍Los Angeles, CA  ☎️: 619-650-9923 📧: vgudaval@usc.edu [LinkedIn](https://linkedin.com/in/vedanvita-gudavalli/) [GitHub](https://github.com/Vgudaval)
+#### Location: 📍Los Angeles, CA  ☎️: 619-650-9923 📧: vgudaval@usc.edu [**LinkedIn**](https://linkedin.com/in/vedanvita-gudavalli/) [**GitHub**](https://github.com/Vgudaval)
+#### Location: 📍Los Angeles, CA  ☎️: 619-650-9923  [📧:**vgudaval@usc.edu**](mailto:vgudaval@usc.edu)  [**LinkedIn**](https://linkedin.com/in/vedanvita-gudavalli/) [**GitHub**](https://github.com/Vgudaval)
+
 
 ## Education
 - **Master of Science in Applied Data Science** | University of Southern California, Viterbi School of Engineering (_May 2024_)  
