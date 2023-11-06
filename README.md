@@ -3,7 +3,7 @@
 #### I am more than an aspiring data scientist. I have expertise in Machine Learning, NLP, Deep Learning and EDA.
 
 #### 📍**Los Angeles, CA**   ☎️: **619-650-9923**   [📧: **vgudaval@usc.edu**](mailto:vgudaval@usc.edu)  
-#### [**LinkedIn**](https://linkedin.com/in/vedanvita-gudavalli/)      #### [**Resume**](https://tinyurl.com/yutt3txr)      #### [**GitHub**](https://github.com/Vgudaval)
+#### [**LinkedIn**](https://linkedin.com/in/vedanvita-gudavalli/)     [**Resume**](https://tinyurl.com/yutt3txr)     [**GitHub**](https://github.com/Vgudaval)
 
 ## Education
 - **Master of Science in Applied Data Science** | University of Southern California, Viterbi School of Engineering (_May 2024_)  
@@ -87,4 +87,5 @@ GPA: 9.36/10
 - Implemented EDA to analyze Hong Kong job market trends.
 - Identified dominant sectors and prime career levels for strategic HR planning.
 - Created intuitive Tableau dashboards for efficient data visualization.
+- [*View Project*](https://github.com/Vgudaval/HR_Analytics_Tableau)
 
