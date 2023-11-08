@@ -1,8 +1,9 @@
 # Data Driven, Trojan Proven
 
-#### I am more than an aspiring data scientist. I have expertise in Machine Learning, NLP, Deep Learning and EDA.
+#### I am more than an aspiring data scientist. I have expertise in Machine Learning, LLMs, NLP, Deep Learning and Data Analysis.
 
 #### 📍**Los Angeles, CA**   ☎️: **619-650-9923**   [📧: **vgudaval@usc.edu**](mailto:vgudaval@usc.edu)  
+
 
 <html lang="en">
 <head>
@@ -13,14 +14,14 @@
   .link-container {
       display: flex;
       justify-content: start;
+      font-family: 'Georgia', serif; /* Example font-family */
+      font-style: italic; /* Italic font style */
+      font-weight: bold; /* Bold font weight */
   }
   
   .special-link {
-      color: #808080; /* Grey color */
-      font-family: 'Georgia', serif; /* Example font-family */
+      color: #267cb9; /* Specific shade of blue */
       text-decoration: none; /* Removes underlining of links */
-      font-style: italic; /* Italic font style */
-      font-weight: bold; /* Bold font weight */
       margin-right: 40px; /* Space between the links */
   }
   
@@ -29,7 +30,7 @@
   }
   
   .special-link:hover {
-      color: #A9A9A9; /* A lighter shade of grey for a hover effect */
+      color: #2b8cc4; /* A lighter shade of blue for a hover effect */
   }
 </style>
 </head>
@@ -44,6 +45,9 @@
 
 </body>
 </html>
+
+
+
 
 ## Education
 - **Master of Science in Applied Data Science** | University of Southern California, Viterbi School of Engineering (_May 2024_)  
