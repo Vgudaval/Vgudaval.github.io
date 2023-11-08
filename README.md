@@ -4,36 +4,46 @@
 
 #### 📍**Los Angeles, CA**   ☎️: **619-650-9923**   [📧: **vgudaval@usc.edu**](mailto:vgudaval@usc.edu)  
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Your Portfolio</title>
 <style>
+  .link-container {
+      display: flex;
+      justify-content: start;
+  }
+  
   .special-link {
-      color: #1E90FF; /* DodgerBlue */
+      color: #808080; /* Grey color */
       font-family: 'Georgia', serif; /* Example font-family */
       text-decoration: none; /* Removes underlining of links */
       font-style: italic; /* Italic font style */
       font-weight: bold; /* Bold font weight */
+      margin-right: 40px; /* Space between the links */
+  }
+  
+  .special-link:last-child {
+      margin-right: 0; /* Ensures the last link doesn't have a margin on the right */
   }
   
   .special-link:hover {
-      color: #6495ED; /* CornflowerBlue for a hover effect */
+      color: #A9A9A9; /* A lighter shade of grey for a hover effect */
   }
 </style>
 </head>
 <body>
 
-<!-- Your portfolio links -->
-<a href="https://linkedin.com/in/vedanvita-gudavalli/" class="special-link" target="_blank">LinkedIn</a><br>
-<a href="https://tinyurl.com/yutt3txr" class="special-link" target="_blank">Resume</a><br>
-<a href="https://github.com/Vgudaval" class="special-link" target="_blank">GitHub</a>
+<!-- Link container to align links side by side -->
+<div class="link-container">
+  <a href="https://linkedin.com/in/vedanvita-gudavalli/" class="special-link" target="_blank">LinkedIn</a>
+  <a href="https://tinyurl.com/yutt3txr" class="special-link" target="_blank">Resume</a>
+  <a href="https://github.com/Vgudaval" class="special-link" target="_blank">GitHub</a>
+</div>
 
 </body>
 </html>
-
 
 ## Education
 - **Master of Science in Applied Data Science** | University of Southern California, Viterbi School of Engineering (_May 2024_)  
