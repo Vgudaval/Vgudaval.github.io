@@ -4,9 +4,36 @@
 
 #### 📍**Los Angeles, CA**   ☎️: **619-650-9923**   [📧: **vgudaval@usc.edu**](mailto:vgudaval@usc.edu)  
 
-<a href="https://linkedin.com/in/vedanvita-gudavalli/" style="color: blue;">LinkedIn</a>
-<a href="https://tinyurl.com/yutt3txr" style="color: blue;">Resume</a>
-<a href="https://github.com/Vgudaval" style="color: blue;">GitHub</a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Your Portfolio</title>
+<style>
+  .special-link {
+      color: #1E90FF; /* DodgerBlue */
+      font-family: 'Georgia', serif; /* Example font-family */
+      text-decoration: none; /* Removes underlining of links */
+      font-style: italic; /* Italic font style */
+      font-weight: bold; /* Bold font weight */
+  }
+  
+  .special-link:hover {
+      color: #6495ED; /* CornflowerBlue for a hover effect */
+  }
+</style>
+</head>
+<body>
+
+<!-- Your portfolio links -->
+<a href="https://linkedin.com/in/vedanvita-gudavalli/" class="special-link" target="_blank">LinkedIn</a><br>
+<a href="https://tinyurl.com/yutt3txr" class="special-link" target="_blank">Resume</a><br>
+<a href="https://github.com/Vgudaval" class="special-link" target="_blank">GitHub</a>
+
+</body>
+</html>
+
 
 ## Education
 - **Master of Science in Applied Data Science** | University of Southern California, Viterbi School of Engineering (_May 2024_)  
