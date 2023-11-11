@@ -39,7 +39,7 @@
 <!-- Link container to align links side by side -->
 <div class="link-container">
   <a href="https://linkedin.com/in/vedanvita-gudavalli/" class="special-link" target="_blank">LinkedIn</a>
-  <a href="https://tinyurl.com/yutt3txr" class="special-link" target="_blank">Resume</a>
+  <a href="https://tinyurl.com/4mkh79uw" class="special-link" target="_blank">Resume</a>
   <a href="https://github.com/Vgudaval" class="special-link" target="_blank">GitHub</a>
 </div>
 
